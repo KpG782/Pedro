@@ -93,6 +93,17 @@ In a distant land, Pedro, a reliable and valiant villager, wakes to find his gir
 
 ## 🗺️ Level Design & Objectives
 
+
+### **Screenshots**
+<img width="787" height="431" alt="image" src="https://github.com/user-attachments/assets/56b80f66-f210-484a-8a40-e36a10b4d9a4" />
+<img width="705" height="394" alt="image" src="https://github.com/user-attachments/assets/6f63234f-29f1-4219-a611-6b57129d74db" />
+<img width="788" height="425" alt="image" src="https://github.com/user-attachments/assets/08f2eee6-d62a-4bfd-9bc9-7515b092b0eb" />
+![Uploading image.png…]()
+
+
+
+
+
 ### **Win/Lose Conditions**
 
 - Defeat enemies and bosses
