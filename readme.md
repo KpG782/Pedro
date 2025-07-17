@@ -132,13 +132,23 @@ _Please update with your actual stack details!_
 
 ## 👥 Group Members
 
-- Sebastian Baluyut
-- Lanz Eron Corpuz
-- Timothy Forte
-- Ken Patrick Garcia
-- Mars Navasero Maggudayao
-- Brian Ashley Papa
+- **Sebastian Baluyut** – Lead Graphic Designer & Art Director  
+  *Responsible for the overall visual style, character design, and pixel art assets. Oversees the artistic vision and ensures consistency across all game visuals.*
 
+- **Lanz Eron Corpuz** – Backend Systems Engineer  
+  *Handles backend architecture, game logic integration, and ensures smooth performance of core systems. Implements save/load features and manages data flow.*
+
+- **Timothy Forte** – Game Design Assistant  
+  *Supports level design, gameplay balancing, and narrative development. Assists in prototyping and refining game mechanics.*
+
+- **Ken Patrick Garcia** – Lead Gameplay Programmer  
+  *Leads the development of core gameplay logic, combat systems, and player controls. Ensures robust and maintainable code for all interactive features.*
+
+- **Mars Navasero Maggudayao** – Asset Integration Specialist  
+  *Compiles and integrates visual and audio assets into the game engine. Ensures all assets are optimized and function correctly within the game.*
+
+- **Brian Ashley Papa** – Asset Configuration Engineer  
+  *Configures and manages asset pipelines, organizes resources, and ensures compatibility across platforms.
 ---
 
 ## 📦 Getting Started
