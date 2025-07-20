@@ -131,14 +131,14 @@ In a distant land, Pedro, a reliable and valiant villager, wakes to find his gir
 
 ## 👨‍💻 Tech Stack
 
-- **Engine:** (e.g., Unity, Godot, custom engine)
-- **Language:** (e.g., C#, Python, JavaScript)
+- **Engine:** Unity
+- **Language:** C#
 - **Graphics:** 2D Pixel Art
 - **Audio:** (e.g., FMOD, custom SFX)
 - **Version Control:** Git
 - **Other Tools:** (e.g., Tiled for maps, Aseprite for sprites)
 
-_Please update with your actual stack details!_
+
 
 ---
 
