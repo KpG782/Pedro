@@ -1,7 +1,7 @@
 # THE ORIGINS : OF PEDRO THE BLACK SWORDSMAN
 
 **Journey of The Black Swordsman to the Center of Alexa’s Cave**  
-_Revitalized, a 2D Adventure Game_
+ a 2D Adventure Game_
 
 ---
 
