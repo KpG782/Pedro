@@ -25,6 +25,7 @@ Pedro is a 2D pixel art adventure game where you play as a humble villager whose
 - Role Playing Game (RPG)
 - Adventure Game
 - Rescue Game
+- 2D Game
 
 ---
 
